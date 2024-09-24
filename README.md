@@ -1,4 +1,4 @@
-# my-project
+# GUESSING NUMBER
 OVERVIEW OF THIS PROJECT
 This is a simple number guessing game where the player tries to guess a randomly generated number between 1 and 100. The player can choose between two difficulty levels, which determine the number of attempts they have to guess the number.
 Code Breakdown
