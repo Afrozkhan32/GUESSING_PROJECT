@@ -7,6 +7,7 @@ CODE:
             import random
             from art import logo
             print(logo)
+            
   i.The random module is used to generate a random number.
   ii.The logo is imported from an external module (assumed to contain a decorative ASCII art logo) and printed to the console.
 2.Game Initialization:
